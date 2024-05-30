@@ -1,6 +1,6 @@
 # main.py
 
-def plus(a, b):
+def plus(a, b): #функция сложения
     return a + b
 
 def minus(a, b):
